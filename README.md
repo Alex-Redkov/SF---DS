@@ -4,8 +4,8 @@ From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scienc
 
 ## Projects
 
- * [Project 0. Game: guess the number] (https://github.com/Alex-Redkov/SF---DS)
+ * [Project 0. Game: guess the number] (https://github.com/Alex-Redkov/SF---DS/tree/main/Project%200)
  * [Project 1. _____________] (_____)
  * [Project 2. _____________] (_____)
- 
+
  ## Ссылки на резюме
