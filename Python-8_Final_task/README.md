@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект Python-8. Угадай число
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Alex-Redkov/SF---DS/blob/main/Python-8_Final_task/README.md#Описание-проекта)  
