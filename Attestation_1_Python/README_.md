@@ -1,9 +1,9 @@
 # Аттестация 1. Python. Практическое задание в Jupiter
 
 ## Оглавление  
-[1. Описание задачи](https://github.com/Alex-Redkov/SF---DS/tree/main/Attestation_1_Python/README.md#Описание-задачи)  
-[2. Этапы работы над задачей](https://github.com/Alex-Redkov/SF---DS/tree/main/Attestation_1_Python/README.md#Этапы-работы-над-задачей)    
-[3. Выводы](https://github.com/Alex-Redkov/SF---DS/tree/main/Attestation_1_Python/README.md#Выводы) 
+[1. Описание задачи](https://github.com/Alex-Redkov/SF---DS/blob/main/Attestation_1_Python/README_.md#Описание-задачи)  
+[2. Этапы работы над задачей](https://github.com/Alex-Redkov/SF---DS/blob/main/Attestation_1_Python/README_.md#Этапы-работы-над-задачей)    
+[3. Выводы](https://github.com/Alex-Redkov/SF---DS/blob/main/Attestation_1_Python/README_.md#Выводы) 
 
 
 ### Описание задачи    
@@ -12,7 +12,7 @@
 * cum_power - накопленная (кумулятивная) выработка энергии на указанный день
 
 
-:arrow_up:[ к оглавлению](https://github.com/Alex-Redkov/SF---DS/tree/main/Attestation_1_Python/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Alex-Redkov/SF---DS/blob/main/Attestation_1_Python/README_.md#Оглавление)
 
 
 ### Этапы работы над задачей    
@@ -21,10 +21,10 @@
 После чего создаем данные о ежемесячной выработке энергии на каждый год. 
 3. Строим график временного ряда - ежемесячной выработки солнечной энергии.
 
-:arrow_up:[ к оглавлению](https://github.com/Alex-Redkov/SF---DS/tree/main/Attestation_1_Python/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Alex-Redkov/SF---DS/blob/main/Attestation_1_Python/README_.md#Оглавление)
 
 ### Выводы
 На графиках временного ряда регулярной выработки солнечной энергии видно, что рост энергии происходит в сезонах зима - лето (январь - июнь, июль), снижение: лето - зима (июль - декабрь).
   
-:arrow_up:[ к оглавлению](https://github.com/Alex-Redkov/SF---DS/tree/main/Attestation_1_Python/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Alex-Redkov/SF---DS/blob/main/Attestation_1_Python/README_.md#Оглавление)
 
