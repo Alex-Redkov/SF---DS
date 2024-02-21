@@ -5,7 +5,7 @@ import pickle
 import numpy as np
 
 # url = http://localhost:8000/predict?obj_id=55
-# response = {"obj_id": "55", "prediction": 11.932, "response_status": "OK"}
+# response = {"obj_id": "55", "prediction": 141731, "response_status": "OK"}
 
 app = Flask(__name__)
 
